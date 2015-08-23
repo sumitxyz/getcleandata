@@ -1,4 +1,3 @@
-setwd("C:\\All Work\\Box Sync\\2015\\Analytics Engineer Course\\Getting and Cleaning Data\\Course Project")
 namedata = read.table(
   "getdata_projectfiles_UCI HAR Dataset\\UCI HAR Dataset\\features.txt", 
   sep=" ")
