@@ -1,0 +1,4 @@
+Variable : The variable names in the original data set
+Subject : The subject of observation
+Activity : The kind of activity
+Average : The average of the given variable for the given subject and the given activity
